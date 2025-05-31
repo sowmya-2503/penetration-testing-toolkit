@@ -65,3 +65,5 @@ Uses the paramiko library to connect to SSH.
 Tries each password in the provided list.
 
 Stops on successful login.
+
+![Image](https://github.com/user-attachments/assets/3ff3004c-d5ea-4b81-b772-09103fcc15c9)
